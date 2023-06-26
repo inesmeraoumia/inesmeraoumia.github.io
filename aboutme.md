@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ines Meraoumia
+title: About Me
 subtitle: 
 ---
 
