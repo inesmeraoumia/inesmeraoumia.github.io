@@ -21,9 +21,9 @@ author: ines meraoumia
 
 navbar-links:
   About Me: "aboutme"
-  Publications: "aboutme"
-  Teaching: "aboutme"
-  Curriculum Vitae: "aboutme"
+  #Publications: "aboutme"
+  #Teaching: "aboutme"
+  #Curriculum Vitae: "aboutme"
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
