@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Publications: "publications"
   Teaching: "teaching"
-  Curriculum Vitae: "aboutme" 
+  Curriculum Vitae: "cv" 
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
@@ -128,7 +128,7 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#BA9B9B"
+navbar-col: "#E3DADA"
 #"#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
@@ -137,7 +137,7 @@ text-col: "#404040"
 link-col: "#1C170D"
 #"#008AFF"
 hover-col: "#0085A1"
-footer-col: "#BA9B9B"
+footer-col: "#E3DADA"
 #"#EAEAEA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
