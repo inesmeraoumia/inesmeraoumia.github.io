@@ -13,7 +13,7 @@
 title: Ines Meraoumia's personal page
 
 # Your name to show in the footer
-author: ines meraoooumia
+author: ines meraoumia
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,9 +21,9 @@ author: ines meraoooumia
 
 navbar-links:
   About Me: "aboutme"
-  #Publications: "aboutme"
-  #Teaching: "aboutme"
-  #Curriculum Vitae: "aboutme"
+  Publications: "aboutme"
+  Teaching: "aboutme"
+  Curriculum Vitae: "aboutme"
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
@@ -37,7 +37,7 @@ navbar-links:
 avatar: "/assets/img/pp_ines_m.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: false
+round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
